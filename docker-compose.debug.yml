@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  ics5114jackbugeja:
+    image: ics5114jackbugeja
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    command: ["sh", "-c", "pip install debugpy -t /tmp && python /tmp/debugpy --wait-for-client --listen 0.0.0.0:5678 bdp_assignment/pub_sub_broker/src/pub_sub_link.py "]
+    ports:
+      - 5678:5678

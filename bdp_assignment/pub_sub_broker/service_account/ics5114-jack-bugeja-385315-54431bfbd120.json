@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ics5114-jack-bugeja-385315",
+  "private_key_id": "54431bfbd1202ccbf2f7802851e3b79ed4692217",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1XmjwS9DQSJoq\nK+dByq5cDIKepU+S4ebchK4Bax3c5zZYrCZc4Y/zrdwhDyyJS2pXtDGLql4lC65W\nItPaXKrIjJzJcvRGiM3p/zpI6bz/VFYHXQ368uxTlDAXcX5LT6zLOxQLRY55gk8P\nuqGZ6+EwOazwR00KKA/TflDeX341Fdp0RS5roS6sel6ajveUKr2N0s1mnswpGMvG\njkQgTk0pSatmXlgNPEuNXzuOp09cXU0OKIvCknKpDEJriXo1W4dmEY/zrAYbSNFa\niv1nHUge9D0ybavknR7OIj9BdLATikLxgwuVcRXfNnYSoa4W/aAvniTMPh6hDmzL\n+p2Fw4e3AgMBAAECggEAAvU6DJKNTRr6BK5i9E7mvr0803M1E9tXpV4L68hVnC4w\nfowO3hyW+ULrIFDmiYtaKHmvBdeZTHe0eAF+Z1pz4Jcb0X9B85/fN9iVQ0N99Ri+\nLxrkk6Sq7QaxgsMI68KDZMHJvGX917Ej3Uj5F2ZiQvlAfvSyvB6Az5KzpUTKbU7Z\nt4f+x/Dqw1n61Hl5vF6Tbf0uIyE8+Scnm9LPYsxbHbyyhwU6RFG4nc7vgn6x0m9Y\nxyYj2+YoH3vfMtWevOc0i8W4sDRUClaIfe9HaZ9HEkhrskHWQbl/g2T92e1K8/5t\naBekGNu8INSqAWcdOnbBmtOb/eRPVHzcKaCsu8d9pQKBgQDojfO4gsfgF/Oh2lA5\nZgCUZ37ZLYbGP3/Goa38FdPaxV0Bo7HzgYCqbrzucYMB/OgVHbt46hxPXZuKzxCv\no5ZNwWpRKWPRkxDCOaea+klwMmZjztPrF8lQMUyiZpvOb6PrTZagcmYDVbT5LWpT\n6MdLreqnicJd0RMTIMxGKhSe3QKBgQDHp2UlSeJcDGJyjXmSqno01JZtveTcvgP6\n494dlMeCxlRPIdveDDwalfqlO0WEygp22jX7zY9SSRYY9sWeLIy2ULg4YYflpwTN\n1C3UdQuQVb4JSgEuAOaDEmT7hapnlFHymdAH29QHBleSg/HxGGFYo2vWo0tbtNTV\nGdXVl79VowKBgBz9pUZ5N0WedsbUmm+tYaEejdexLz4DqIAwo6nrZq+9Lu0HZSXA\nHTQh/feTuwtCZgRL4pUeSk0ylDNnwOLEd/ZViFV53XHA7bPo0BYn4YPVJKKIpC6I\nlpYirzUHqaDAliS9VWvHFySPSLJPkRPIzx+GHNyp9csQR1p5Gj4c/NkZAoGBAJkt\nc+uU8QdgNRPgOTruco4f4D3YKEO3wUP3GY2mfR93XG3N82s8Bcz77m5guCh1/mtL\nZYmIH4KpMjv68Ik3csnZykzvfx0R9ByawoKzPikBr6hez+Lkq/Y54aIb3i5T3D9+\nBN5SqSyuj/eIJdKsutsPnofxhrqYVYYdqTKTlydzAoGBANcOHmHQ1uUy3Tjubz23\nLBYHttMbwu7uslIxdsjSpdJWRVvvSaOzHZ7j6qXWBgo9jBTAWwdsYyQ2V3MPnJ13\nL/QijDzXSeA55ZS+NjxvammtirfPQUHhPOMjkXDNCPDIWkVwkigQ60qc+XthoKO+\nZ7kYSN3ne9us356+INNvzrvn\n-----END PRIVATE KEY-----\n",
+  "client_email": "big-query-admin-bdp@ics5114-jack-bugeja-385315.iam.gserviceaccount.com",
+  "client_id": "102203675511481441074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/big-query-admin-bdp%40ics5114-jack-bugeja-385315.iam.gserviceaccount.com"
+}

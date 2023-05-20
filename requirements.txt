@@ -1,0 +1,6 @@
+cdsapi==0.6.1
+mysql_connector_repackaged==0.3.1
+pandas==1.5.2
+protobuf==4.23.1
+tqdm==4.65.0
+xarray==2023.4.2
