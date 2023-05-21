@@ -9,4 +9,4 @@ services:
       MYSQL_DATABASE: era5_dataset
       MYSQL_PASSWORD: password
     volumes:
-      - /mysql_volume.tar
+      - /mysql_data.tar
