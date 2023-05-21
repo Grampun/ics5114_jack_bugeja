@@ -26,4 +26,4 @@
 
 ![Screenshot 2023-05-21 at 11 11 49](https://github.com/Grampun/ics5114_jack_bugeja/assets/29627317/5b5bfe5e-99e0-4a02-8a41-276061b9556c)
 
-8. The data from the BigQuery tables and BigQuery ML models can be found in [this report]([url](https://lookerstudio.google.com/reporting/6399820a-433d-47ab-a3e1-309044982035)).
+8. The data from the BigQuery tables and BigQuery ML models can be found in [this report]((https://lookerstudio.google.com/reporting/6399820a-433d-47ab-a3e1-309044982035)).
