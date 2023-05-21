@@ -1,9 +1,10 @@
 # ics5114_jack_bugeja
  Big Data Processing Assignment - Jack Bugeja
  
-#This project uses python3.10 & docker meaning both are needed on your system in order to run this project properly.
+**This project uses python3.10 & docker meaning both are needed on your system in order to run this project properly.
+**
 
-#Running The MySQL Server & Data Ingestion Script
+# Running The MySQL Server & Data Ingestion Script
 1. clone this repository on your local machine
 2. run ```pip install -r requirements.txt``` to install all of the required python librarues for the scripts in this project
 3. run the docker-compose up -d in your terminal (within the project directory) to run the docker container containing the image and volume with the working mysql database and respective database data. The .tar file in the repository contains some sample data from the dataset due to size, as well as some database configs that should get the server up and running
@@ -26,4 +27,12 @@
 
 ![Screenshot 2023-05-21 at 11 11 49](https://github.com/Grampun/ics5114_jack_bugeja/assets/29627317/5b5bfe5e-99e0-4a02-8a41-276061b9556c)
 
-8. The data from the BigQuery tables and BigQuery ML models can be found in [this report]((https://lookerstudio.google.com/reporting/6399820a-433d-47ab-a3e1-309044982035)).
+8. The data from the BigQuery tables and BigQuery ML models can be found in this report: https://lookerstudio.google.com/reporting/6399820a-433d-47ab-a3e1-309044982035
+
+
+
+# Architectural Diagram
+
+
+![big_data_processing_jb drawio](https://github.com/Grampun/ics5114_jack_bugeja/assets/29627317/4cdf654f-0beb-48cf-b484-6f54a81297d9)
+
