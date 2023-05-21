@@ -36,3 +36,10 @@
 
 ![big_data_processing_jb drawio](https://github.com/Grampun/ics5114_jack_bugeja/assets/29627317/4cdf654f-0beb-48cf-b484-6f54a81297d9)
 
+
+# Logging into your Viewing Account
+
+1. u: ics5114examiner@gmail.com p: Password247
+2. All of the GCP modules necessary for this assignment have been pinned to this account's sidebar:
+
+![Screenshot 2023-05-21 at 11 29 12](https://github.com/Grampun/ics5114_jack_bugeja/assets/29627317/bb143509-b0d7-463c-a8ef-222627d69ae0)
