@@ -39,7 +39,7 @@
 
 # Logging into your Viewing Account
 
-1. u: ics5114examiner@gmail.com p: Password247
+1. You will find the credentials for the GCP viewing account in the readMe I uploaded through the VLE
 2. All of the GCP modules necessary for this assignment have been pinned to this account's sidebar:
 
 ![Screenshot 2023-05-21 at 11 29 12](https://github.com/Grampun/ics5114_jack_bugeja/assets/29627317/bb143509-b0d7-463c-a8ef-222627d69ae0)
